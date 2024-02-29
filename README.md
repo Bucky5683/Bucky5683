@@ -1,5 +1,6 @@
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-F05138?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
 
 
