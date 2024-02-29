@@ -12,4 +12,4 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucky5683&show_icons=true&theme=bear)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bucky5683&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bucky5683&layout=donut)
