@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:B296FF,100:C1D2DC&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:B296FF,100:C1D2DC&height=300&section=header&text=Bucky's%Githubcapsule%20render&fontSize=90" />
 
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
