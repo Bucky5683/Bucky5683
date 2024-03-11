@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:B296FF,100:C1D2DC&fontColor=FFFFFF&height=300&section=header&text=Bucky's%20Github&fontSize=90" />
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:B296FF,100:C1D2DC&fontColor=FFFFFF&height=300&section=header&text=Bucky's%20Github&fontSize=90" />
 <h3>📌 Main Skills</h3>
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
