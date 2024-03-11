@@ -7,10 +7,9 @@
 <p>
   <img src="https://img.shields.io/badge/bucky5683@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   <a href="https://www.instagram.com/sy8_546/">
-    <img src="https://img.shields.io/badge/sy8_546-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/sy5683.tistory.com-000000?style=flat-square&logo=Tistory&logoColor=white"/>
-  
+  <a href="www.sy5683.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucky5683&show_icons=true&theme=bear)
