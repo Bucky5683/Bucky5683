@@ -3,7 +3,6 @@
   <h3>📌 Main Skills</h3>
   <p>
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GDSC_Soongsil-4285F4?style=flat-square&logo=Google&logoColor=white"/>
   </p>
   <br/>
   <h3>📌 Sub Skills</h3>
