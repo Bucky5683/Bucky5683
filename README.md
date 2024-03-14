@@ -36,5 +36,5 @@
 </div>
 <footer>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucky5683&show_icons=true&theme=bear)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucky5683&show_icons=true&theme=jolly)
 </footer>
