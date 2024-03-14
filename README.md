@@ -1,6 +1,6 @@
 <header>
   <div align="center" style="background-color: #453C59">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:B0BAD9,100:D9D9D9&fontColor=C79BF2&height=300&section=header&text=Bucky's%20Github&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:70587C,50:502F4C,100:F9F4F5&fontColor=C8B8DB&height=300&section=header&text=Bucky's%20Github&fontSize=90" />
   </div>
   
   [![ ](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBucky5683%2Fhit-counter&count_bg=%23D9D59A&title_bg=%23143959&icon=pinboard.svg&icon_color=%23F2F2F2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com/)
