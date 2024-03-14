@@ -1,5 +1,5 @@
 <header>
-  <div align="center">
+  <div align="center" style="background-color: #453C59">
     <img src="https://capsule-render.vercel.app/api?type=venom&color=0:C79BF2,100:C79BF2&fontColor=B0BAD9&height=300&section=header&text=Bucky's%20Github&fontSize=90" />
   </div>
   
