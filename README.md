@@ -1,5 +1,7 @@
-<header align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:B296FF,100:C1D2DC&fontColor=FFFFFF&height=300&section=header&text=Bucky's%20Github&fontSize=90" />
+<header>
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:B296FF,100:C1D2DC&fontColor=FFFFFF&height=300&section=header&text=Bucky's%20Github&fontSize=90" />
+  </div>
 </header>
 <div align="center">
   <br/>
