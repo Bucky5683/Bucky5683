@@ -8,9 +8,9 @@
 
 <div align="center">
   <br/>
-  <table>
+  <table style="width: 100%;">
     <tr>
-      <td>
+      <td style="width: 33.33%;">
         <div class="mainSkill">
           <h3>📌 Main Skills</h3>
           <h4>
@@ -23,7 +23,7 @@
           </p>
         </div>
       </td>
-      <td>
+      <td style="width: 33.33%;">
         <div class="subSkill">
           <h3>📌 Sub Skills</h3>
           <h4>
@@ -37,7 +37,7 @@
           </p>
         </div>
       </td>
-      <td>
+      <td style="width: 33.33%;">
         <div class="SNS">
           <h3>💬 SNS</h3>
           <p>
