@@ -7,7 +7,7 @@
 </header>
 <div>
   <br/>
-  <figure class="thrid">
+  <figure class="thrid" style="display: flex; flex-direction: row;">
   <div class="mainSkill">
     <h3>📌 Main Skills</h3>
     <h4>
@@ -50,5 +50,5 @@
 </div>
 <footer>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucky5683&show_icons=true&theme=material-palenight)
+  ![Bucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucky5683&show_icons=true&theme=material-palenight)
 </footer>
