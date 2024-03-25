@@ -6,16 +6,16 @@
 
 ## 📌 Main Skills
 ### 🍎 iOS 🍎
-- Swift ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
-- SwiftUI ![SwiftUI](https://img.shields.io/badge/SwiftUI-056CF2?style=flat-square&logo=Swift&logoColor=white)
-- UIKit ![UIKit](https://img.shields.io/badge/UIKit-05AFF2?style=flat-square&logo=Swift&logoColor=white)
+- ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
+- ![SwiftUI](https://img.shields.io/badge/SwiftUI-056CF2?style=flat-square&logo=Swift&logoColor=white)
+- ![UIKit](https://img.shields.io/badge/UIKit-05AFF2?style=flat-square&logo=Swift&logoColor=white)
 
 ## 📌 Sub Skills
 ### 🌐 Web 🌐
-- CSS3 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- HTML5 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- Vue.js ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 ## 💬 SNS
 - [bucky5683@gmail.com](mailto:bucky5683@gmail.com) ![Gmail](https://img.shields.io/badge/bucky5683@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)
