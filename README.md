@@ -8,7 +8,7 @@
 
 <div align="center">
   <br/>
-  <table style="width: 100%;">
+  <table style="width: 100%;, border: 0;">
     <tr>
       <td style="width: 33.33%;">
         <div class="mainSkill">
