@@ -9,7 +9,7 @@
   <br/>
   <h3>📌 Main Skills</h3>
   <h4>
-    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
+    iOS
   </h4>
   <p>
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
