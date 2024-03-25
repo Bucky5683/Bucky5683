@@ -10,6 +10,8 @@
   <h3>📌 Main Skills</h3>
   <p>
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SwiftUI-056CF2?style=flat-square&logo=Swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/UIKit-056CF2?style=flat-square&logo=Swift&logoColor=white"/>
   </p>
   <br/>
   <h3>📌 Sub Skills</h3>
