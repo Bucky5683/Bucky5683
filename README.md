@@ -4,7 +4,9 @@
 
 
 <br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBucky5683&count_bg=%23000000&title_bg=%23000000&icon=apple.svg&icon_color=%239A9A9A&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+<br/>
 ### 📌 Main Skills
 #### 🍎 iOS 🍎
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
@@ -41,6 +43,5 @@
 
 ![Bucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucky5683&show_icons=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bucky5683&layout=compact)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBucky5683&count_bg=%23000000&title_bg=%23000000&icon=apple.svg&icon_color=%239A9A9A&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0583F2&height=150&section=footer" />
 </div>
