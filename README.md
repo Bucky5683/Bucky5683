@@ -1,6 +1,6 @@
 <div align="center">
   
-![Bucky's GitHub Header](https://capsule-render.vercel.app/api?type=transparent&color=0:453C59,30:C79BF2,100:2C3140&fontColor=B0BAD9&height=300&section=header&text=Bucky's%20Github!&fontAlign=50&fontAlign=70&fontSize=90&desc=Welcome%20to%20my%20GitHub&descSize=30&descAlign=70&descAlignY=70&textBg=true)
+![Bucky's GitHub Header](https://capsule-render.vercel.app/api?type=transparent&color=0:453C59,30:C79BF2,100:2C3140&fontColor=0583F2&height=300&section=header&text=Bucky's%20Github!&fontAlign=50&fontAlign=70&fontSize=90&desc=Welcome%20to%20my%20GitHub&descSize=30&descAlign=70&descAlignY=70&textBg=true)
 
 ---
 <br/>
