@@ -8,7 +8,7 @@
 <div>
   <br/>
   <figure class="thrid">
-  <div>
+  <div class="mainSkill">
     <h3>📌 Main Skills</h3>
     <h4>
       🍎iOS🍎
@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/UIKit-05AFF2?style=flat-square&logo=Swift&logoColor=white"/>
     </p>
   </div>
-  <div>
+  <div class="subSkill">
     <h3>📌 Sub Skills</h3>
     <h4>
       🌐Web🌐
@@ -31,7 +31,7 @@
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
     </p>
   </div>
-  <div>
+  <div class="SNS">
     <h3>💬 SNS</h3>
     <p>
       <img src="https://img.shields.io/badge/bucky5683@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
