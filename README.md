@@ -1,49 +1,61 @@
 <div align="center">
-  
-![Bucky's GitHub Header](https://capsule-render.vercel.app/api?type=waving&color=0583F2&fontColor=FFFFFF&height=300&section=header&text=Bucky's%20Github!&fontAlign=50&fontAlign=70&fontSize=90&desc=Welcome%20to%20my%20GitHub&descSize=30&descAlign=70&descAlignY=70)
 
-
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0583F2&fontColor=FFFFFF&height=280&section=header&text=Seoyeon's%20GitHub&fontAlign=50&fontAlignY=40&fontSize=60&desc=iOS%20Developer%20%7C%20Crafting%20seamless%20mobile%20experiences&descSize=20&descAlign=50&descAlignY=60)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBucky5683&count_bg=%23000000&title_bg=%23000000&icon=apple.svg&icon_color=%239A9A9A&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-<br/>
+---
 
-### 📌 Main Skills
-#### 🍎 iOS 🍎
+## 👩‍💻 About Me
+
+```
+📍 iOS Developer @ SI Company
+🍎 Swift / SwiftUI / UIKit
+🌱 Currently deepening expertise in iOS architecture & performance
+📬 bucky5683@gmail.com
+```
+
+---
+
+## 🛠 Tech Stack
+
+### 🍎 iOS — Main
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-056CF2?style=flat-square&logo=Swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-05AFF2?style=flat-square&logo=Swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
 
-<br/>
-<br/>
-<br/>
-
-### 📌 Sub Skills
-#### 🌐 Web 🌐
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🌐 Web — Sub
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-<br/>
-<br/>
-<br/>
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### 💬 SNS
+---
+
+## 📊 GitHub Stats
+
+![Bucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucky5683&show_icons=true&theme=tokyonight&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bucky5683&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bucky5683&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 💬 Contact
+
 <p>
   <a href="mailto:bucky5683@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/sy8_546/"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://sy5683.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
 
-<br/>
-<br/>
-<br/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0583F2&height=150&section=footer)
 
-
-
-![Bucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucky5683&show_icons=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bucky5683&layout=compact)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0583F2&height=150&section=footer" />
 </div>
