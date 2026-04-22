@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0583F2&fontColor=FFFFFF&height=280&section=header&text=Seoyeon's%20GitHub&fontAlign=50&fontAlignY=40&fontSize=60&desc=iOS%20Developer%20%7C%20Crafting%20seamless%20mobile%20experiences&descSize=20&descAlign=50&descAlignY=60)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBucky5683&count_bg=%23000000&title_bg=%23000000&icon=apple.svg&icon_color=%239A9A9A&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ---
 
